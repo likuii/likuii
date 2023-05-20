@@ -21,7 +21,7 @@ Hello World
     <a href="https://www.cnblogs.com/yueyaboke/"><img src="https://img.shields.io/badge/CNBLOGS-博客园-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/lixiaomingr/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=likuii&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
